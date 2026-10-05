@@ -1,4 +1,4 @@
-import Header from '@/components/ui/Header'
+import Header from '@/components/Header'
 import React, { ReactNode } from 'react'
 
 const Provider = ({children}:{children:ReactNode}) => {
